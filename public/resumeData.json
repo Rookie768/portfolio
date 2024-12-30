@@ -1,0 +1,74 @@
+{
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "Experience":[
+      {
+        "company":"Timechain Labs",
+        "title": "Blockchain Developer",
+        "years": "August 2023",
+        "description": "I was in a team of 4-5 developers contributing towards making"
+      }
+    ],
+    "skills":[
+      {
+        "image":"git.jpg"
+      },
+      {
+        "image":"HTML.jpg"
+      }, 
+      {
+        "image":"SASS.svg"
+      }, 
+      {
+        "image":"bootstrap.jpg"
+      }, 
+      {
+        "image":"react.jpg"
+      },
+      {
+        "image":"NextJS.jpg"
+      },
+      {
+        "image":"gatsby.png"
+      },
+      {
+        "image":"Firebase.png"
+      },
+      {
+        "image":"Bulma.png"
+      },
+      {
+        "image":"C++.png"
+      },
+      {
+        "image":"java.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Female Apparel Website",
+        "category":"Women clothing website",
+        "image":"",
+        "url":"https://achyut-singh-female-apparel.netlify.app/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"lorem",
+        "user":"lorem"
+      }
+    ]
+  }
+}
