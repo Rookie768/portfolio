@@ -1,6 +1,10 @@
 {
+  "name": "achyut-portfolio",
+  "version": "0.1.0",
+  "homepage": "http://localhost:3000",
   "private": true,
   "dependencies": {
+    "achyut-portfolio": "file:",
     "jquery": "^3.2.1",
     "nice-try": "^2.1.0",
     "react": "^16.2.0",

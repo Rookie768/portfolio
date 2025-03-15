@@ -8,7 +8,7 @@ class Resume extends Component {
       var education = this.props.data.education.map(function(){
         return <div><h3>National Institute of Technology Patna</h3>
         <p className="info">4th year ECE <span>&bull;</span><em className="date">2021 – 2025</em></p>
-        <p>Secured 7.91 CGPA (till now)</p></div>
+        <p>Secured 7.85 CGPA (till now)</p></div>
       })
       var Experience = this.props.data.Experience.map(function(Experience){
         return <div key={Experience.company}><h3>{Experience.company}</h3>

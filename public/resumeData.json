@@ -24,9 +24,7 @@
       {
         "image":"HTML.jpg"
       }, 
-      {
-        "image":"SASS.svg"
-      }, 
+      
       {
         "image":"bootstrap.jpg"
       }, 
@@ -36,15 +34,11 @@
       {
         "image":"NextJS.jpg"
       },
-      {
-        "image":"gatsby.png"
-      },
+      
       {
         "image":"Firebase.png"
       },
-      {
-        "image":"Bulma.png"
-      },
+      
       {
         "image":"C++.png"
       },
@@ -58,8 +52,20 @@
       {
         "title":"Female Apparel Website",
         "category":"Women clothing website",
-        "image":"",
-        "url":"https://achyut-singh-female-apparel.netlify.app/"
+        "image":"/images/projects/fem.png",
+        "url":"https://github.com/Rookie768/female_apparel"
+      },
+      {
+        "title":"Rain Drop Animation",
+        "category":"Animation",
+        "image":"/images/projects/rain.png",
+        "url":"https://github.com/Rookie768/rain-drop-project"
+      },
+      {
+        "title":"To Do List",
+        "category":"To do list application",
+        "image":"/images/projects/todo.png",
+        "url":"https://github.com/Rookie768/reactify-todo-list"
       }
     ]
   },
